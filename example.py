@@ -1,6 +1,8 @@
+# Function to add two numbers
 def add(a,b):
     return a+b
 
+# Function to substract two numbers
 def subsctract(a,b):
     return a-b
 
